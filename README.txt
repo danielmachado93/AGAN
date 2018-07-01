@@ -1,4 +1,4 @@
-Tensorflow implementation of the model
+Tensorflow implementation of the AGAN model
  
 Train mode:
 - Put the two sets of training images in ./data/datasetX and ./data/datasetY
