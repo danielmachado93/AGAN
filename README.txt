@@ -1,0 +1,2 @@
+- Put the two sets of training images in ./data/datasetX and ./data/datasetY
+- Run main.py with the hyperparameter "Train" == True
